@@ -1,2 +1,5 @@
  Topic: Deleting iml and idea folders in ordfer to force new plugin imports
  Area: Opening and importing Maven projects with intellij> manage intellij project folder files
+ 
+ Topic: cleaning up the maven repository to re-download dependencies from the command line:
+ Area: https://compendiumdev.zenler.com/courses/selenium-2-webdriver-basics-with-java/contents/5698b5f2cf3eb#
