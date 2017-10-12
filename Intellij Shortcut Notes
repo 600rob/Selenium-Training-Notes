@@ -6,3 +6,4 @@ View Java doc               = crtl+Q
 Rename refactor             = Shift+F6
 quick find a class          = ctrl+n
 show available methods      = ctrl+F12
+test
