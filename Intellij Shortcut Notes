@@ -9,4 +9,4 @@ show available methods      = ctrl+F12
 To find or class            = CTRL+N - Then start tying the class name
 find a test/methoD/variable = Ctrl+shift+Alt+N - Then start typing the name of the test
 Find a file                 = Ctrl+Shift+N
-
+evaluate code on the fly    = * must be in debug mode* alt + f8 or evaluate expression by right clicking the selecting evaluate expression, then switch to code fragment mode
